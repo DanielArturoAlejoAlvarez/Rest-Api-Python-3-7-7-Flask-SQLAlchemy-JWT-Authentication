@@ -39,7 +39,7 @@ $ python app.py
 
 Follow the following steps and you're good to go! Important:
 
-![alt text]()
+![alt text](https://camo.githubusercontent.com/02cd7c8f8e5b590231c2fa3d744e4d95e37ccb37/68747470733a2f2f63646e2e6f6d6973652e636f2f6173736574732f73637265656e73686f74732f6f6d6973652d666c61736b2d6578616d706c652f706970656e762d72756e2d666c61736b2d72756e2e676966)
 
 ## Coding
 
